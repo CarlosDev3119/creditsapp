@@ -7,4 +7,5 @@
 1. npm install
 2. Tener instalado docker
 3. Ejecutar ``` docker compose up -d ```
-4. Agregar archivo .env 
+4. Agregar archivo .env
+5. npm run dev
